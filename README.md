@@ -1,6 +1,6 @@
 # Python Machine Learning Assignment
 
-**Author:** Harrison kimonyi Njogu
+**Author:** Harrison Kimonyi Njogu  
 **Project Title:** Introduction to Supervised and Unsupervised Machine Learning
 
 ---
