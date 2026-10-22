@@ -1,6 +1,6 @@
 # Python Machine Learning Assignment
 
-**Author:** <Harrison kimonyi Njogu>  
+**Author:** Harrison kimonyi Njogu
 **Project Title:** Introduction to Supervised and Unsupervised Machine Learning
 
 ---
@@ -19,5 +19,5 @@ This project demonstrates **K-Means Clustering** using `scikit-learn`. It groups
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/python-machine-learning-assignment.git](https://github.com/kimonyi/python-machine-learning-assignment.git)
+   git clone [https://github.com/Kimonyi/python-machine-learning-assignment.git](https://github.com/Kimonyi/python-machine-learning-assignment.git)
    cd python-machine-learning-assignment
